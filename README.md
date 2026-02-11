@@ -1,7 +1,7 @@
 
   # Client Assertion and DPoP Generator
 
-  This is a code bundle for Client Assertion and DPoP Generator. The original project is available at https://www.figma.com/design/FepWunwHRBky3DwnK6MlUw/Client-Assertion-and-DPoP-Generator.
+  This is a code bundle for Client Assertion and DPoP Generator.
 
   ## Running the code
 
